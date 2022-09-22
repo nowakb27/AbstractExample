@@ -1,0 +1,15 @@
+C:\Users\BRANDO\RiderProjects\WCTC2022AbstractExample\bin\Debug\net6.0\AbstractExample.exe
+C:\Users\BRANDO\RiderProjects\WCTC2022AbstractExample\bin\Debug\net6.0\AbstractExample.deps.json
+C:\Users\BRANDO\RiderProjects\WCTC2022AbstractExample\bin\Debug\net6.0\AbstractExample.runtimeconfig.json
+C:\Users\BRANDO\RiderProjects\WCTC2022AbstractExample\bin\Debug\net6.0\AbstractExample.dll
+C:\Users\BRANDO\RiderProjects\WCTC2022AbstractExample\bin\Debug\net6.0\AbstractExample.pdb
+C:\Users\BRANDO\RiderProjects\WCTC2022AbstractExample\obj\Debug\net6.0\AbstractExample.csproj.AssemblyReference.cache
+C:\Users\BRANDO\RiderProjects\WCTC2022AbstractExample\obj\Debug\net6.0\AbstractExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRANDO\RiderProjects\WCTC2022AbstractExample\obj\Debug\net6.0\AbstractExample.AssemblyInfoInputs.cache
+C:\Users\BRANDO\RiderProjects\WCTC2022AbstractExample\obj\Debug\net6.0\AbstractExample.AssemblyInfo.cs
+C:\Users\BRANDO\RiderProjects\WCTC2022AbstractExample\obj\Debug\net6.0\AbstractExample.csproj.CoreCompileInputs.cache
+C:\Users\BRANDO\RiderProjects\WCTC2022AbstractExample\obj\Debug\net6.0\AbstractExample.dll
+C:\Users\BRANDO\RiderProjects\WCTC2022AbstractExample\obj\Debug\net6.0\refint\AbstractExample.dll
+C:\Users\BRANDO\RiderProjects\WCTC2022AbstractExample\obj\Debug\net6.0\AbstractExample.pdb
+C:\Users\BRANDO\RiderProjects\WCTC2022AbstractExample\obj\Debug\net6.0\AbstractExample.genruntimeconfig.cache
+C:\Users\BRANDO\RiderProjects\WCTC2022AbstractExample\obj\Debug\net6.0\ref\AbstractExample.dll
